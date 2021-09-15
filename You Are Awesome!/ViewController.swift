@@ -55,7 +55,7 @@ class ViewController: UIViewController {
                         "You Are Fantastic!",
                         "When the Genius Bar Needs Help, They Call You!",
                         "Fabulous? That's You!",
-                        "You've Got The Design Skills of Jony Ive"]
+                        "You've Got The Design Skills of Jony Ive."]
         
         messageNumber = nonRepeatingRandom(originalNumber: messageNumber, upperLimit: messages.count-1)
         
